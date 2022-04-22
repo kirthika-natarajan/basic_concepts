@@ -8,3 +8,6 @@
 
 
 3. simple_NN_classifier - A simple neural network is build for a classification problem. 
+
+
+4. Simple_CNN_cifar10 notebook works with cifar10 dataset downloaded from https://www.cs.toronto.edu/~kriz/cifar.html. 
